@@ -84,6 +84,13 @@ the following command to test it in the console.
 ```
 $ (venv) python chat.py
 ```
+# firebase-contact-form
 
-Now for deployment follow my tutorial to implement `app.py` and `app.js`.
+a simple contact form using firebase database.
+
+## How to link your firebase:
+
+Go to https://console.firebase.google.com and add a project and a database. In the "rules" tab of the database, set the ".write" key to true
+and copy the code to initialize your firebase to the file "main.js"
+
 
