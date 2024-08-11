@@ -30,7 +30,7 @@ Make sure you have brew installed on your system. If not, follow the steps [here
 - Clone the project (or copy the folder to your local)
 
   ```
-    git clone https://github.com/Satish7897/Heart-Disease-Prediction-Using-Machine-Learning.git
+    git clone https://github.com/YasinMakandar/Heart-Care
   ```
 
 Now, the project is ready to run.
